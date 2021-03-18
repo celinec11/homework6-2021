@@ -25,7 +25,6 @@ header{
 .nav_links{
   /*Your code here again.*/
   flex-direction: column; 
-  justify-content: center;
 }
 
 
@@ -129,6 +128,7 @@ header{
     /*Your code here again.*/  
     display: flex; 
     flex-direction: row; 
+    justify-content: space-between;
     
 
   }
